@@ -11,5 +11,9 @@
         <module name="basic1.basic1.main" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="basic1.basic1.main~1" target="17" />
+      <module name="basic1.basic1.test~1" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
